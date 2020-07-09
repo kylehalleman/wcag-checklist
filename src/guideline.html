@@ -1,0 +1,10 @@
+{% set guidelines = item.guidelines %}
+
+<ul>
+  {% for guideline in guidelines %}
+    <li>
+      <strong>{{ guideline.handle }}</strong>
+      <p>{{ guideline.title }}</p>
+    </li>
+  {% endfor %}
+</ul>
