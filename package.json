@@ -22,7 +22,7 @@
     "@hapi/hapi": "^19.2.0",
     "@hapi/inert": "^6.0.1",
     "@hapi/vision": "^6.0.0",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "html-minifier-terser": "^5.1.1",
     "nunjucks": "^3.2.1",
     "quickref": "github:w3c/wai-wcag-quickref"
